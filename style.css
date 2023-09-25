@@ -1,0 +1,16 @@
+.accordion-item{
+    background-color: rgb(190, 142, 235);
+}
+.accordion-button{
+    background-color: rgb(94, 16, 167);
+    color: white;
+}
+h4{
+    color:orange;
+}
+p{
+    color:rgb(33, 119, 33);
+}
+.spinner-border{
+    width: 60px;
+}
